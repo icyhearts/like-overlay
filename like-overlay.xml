@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>like-overlay</name>
+		<description>like overlay</description>
+		<homepage>https://github.com/icyhearts/like-overlay</homepage>
+		<owner>
+			<email>icyheartshk@gmail.com</email>
+		</owner>
+		<source type="git">https://github.com/icyhearts/like-overlay.git</source>
+	</repo>
+</repositories>
